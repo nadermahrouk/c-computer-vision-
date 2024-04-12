@@ -85,7 +85,6 @@ int main()
         std::cout << std::endl;
     }
 
-
     int x = 0;
     int y = 0;
     int h = 8;
